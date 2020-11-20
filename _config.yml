@@ -16,8 +16,7 @@
 title: FZL
 email: fzl@thefzl.com
 description: >- # this means to ignore newlines until "baseurl:"
-  FZL is an exploration of life through Jesus Christ.  No preaching, no sermons,
-  rather life with Jesus at the core.  Woodworking, cooking, code.  Life.
+  Woodworking, cooking, code.  Life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeffersonfizzle
