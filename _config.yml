@@ -28,7 +28,7 @@ permalink:        /:year/:month/:day/:title/
 markdown: kramdown
 theme: minima
 minima:
-  skin: solarized-dark
+  skin: dark
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
