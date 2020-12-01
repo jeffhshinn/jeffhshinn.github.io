@@ -27,8 +27,11 @@ permalink:        /:year/:month/:day/:title/
 # Build settings
 markdown: kramdown
 theme: minima
+minima:
+  skin: solarized-dark
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
 
 google_analytics: UA-129699321-1

@@ -257,6 +257,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.15.1)
+  jekyll-seo-tag
   jekyll-sitemap
   minima (~> 2.5.1)
 
