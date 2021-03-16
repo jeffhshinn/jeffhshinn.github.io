@@ -35,6 +35,8 @@ plugins:
 # To change the skin of minima uncomment here
 # minima:
 #   skin: dark
+minima:
+  skin: solarized-dark
 
 google_analytics: UA-129699321-1
 
