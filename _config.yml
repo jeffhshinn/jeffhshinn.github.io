@@ -16,7 +16,7 @@
 title: FZL
 email: fzl@thefzl.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Woodworking, cooking, code.  Life.
+  Banking on life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thefzl.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeffersonfizzle
@@ -36,7 +36,7 @@ plugins:
 # minima:
 #   skin: dark
 minima:
-  skin: solarized-dark
+  skin: dark
 
 google_analytics: UA-129699321-1
 
