@@ -36,7 +36,7 @@ plugins:
 # minima:
 #   skin: dark
 minima:
-  skin: dark
+  skin: solarized
 
 google_analytics: UA-129699321-1
 
