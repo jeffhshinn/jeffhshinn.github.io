@@ -2,4 +2,4 @@
 layout: home
 ---
 
-[$HPIL](https://www.otcmarkets.com/stock/HPIL/overview) Army!
+[$HPIL](https://www.otcmarkets.com/stock/HPIL/overview)!
