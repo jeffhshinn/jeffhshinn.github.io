@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CYBT DD
+title: FZL
 description: >- # this means to ignore newlines until "baseurl:"
-  Due Diligence for CYBT / HPIL stock (Cybernetic Technologies).
+  FZL
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.cybtdd.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: CyberneticTech1
+url: "https://www.thefzl.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jeffersonfizzle
 
 permalink:        /:year/:month/:day/:title/
 
